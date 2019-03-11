@@ -6,3 +6,5 @@
 * Yeast
 * Peppers
 * Onions
+* pepperoni
+* sausage
